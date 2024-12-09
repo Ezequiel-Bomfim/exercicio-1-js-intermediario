@@ -1,0 +1,32 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quadrado{
+    width: 20rem;
+    height: 20rem;
+}
+
+.div-azul{
+    background-color: blue;
+}
+
+.background-alterado{
+    background-color: yellow;
+}
+
+.div-vermelha{
+    background-color: red;
+}
+
+
+
+
