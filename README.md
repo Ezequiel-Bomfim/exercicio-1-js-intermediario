@@ -8,8 +8,8 @@ Esse exercício se consiste em fazer uma div mudar de background azul para amare
 
 <img src="./imagens/imagem-de-exemplo.png">
 
-##  Tecnologias utilizadas
-🚀
+## 🚀 Tecnologias utilizadas
+
 - HTML
 - CSS
 - JavaScript
